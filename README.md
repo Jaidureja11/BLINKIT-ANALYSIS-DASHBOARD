@@ -26,7 +26,7 @@ A comprehensive data analysis project to evaluate **Blinkit grocery sales perfor
 ## 📈 Tools & Technologies
 
 - **Python**: Data manipulation and visualization using `pandas`, `matplotlib`, and `seaborn`.
-- **Power BI / Tableau** *(optional)*: For interactive dashboards.
+- **Power BI**: For interactive dashboards.
 - **GitHub**: Version control and project collaboration.
 
 ---
