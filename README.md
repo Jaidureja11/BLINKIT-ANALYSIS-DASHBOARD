@@ -35,7 +35,7 @@ A comprehensive data analysis project to evaluate **Blinkit grocery sales perfor
 
 - Outlets with **Medium Fat Content items** tend to outperform others in terms of sales.
 - Items like **snack foods** and **dairy** consistently rank among top-selling types.
-- Outlets opened in **2004 and 2009** show higher total sales, indicating mature performance.
+- Outlets opened in **2017 and 2019** show higher total sales, indicating mature performance.
 
 ---
 ## screenshot 
