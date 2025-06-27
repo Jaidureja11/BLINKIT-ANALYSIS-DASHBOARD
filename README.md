@@ -1,5 +1,6 @@
 
-Blinkit Data Analysis Dashboard
+BLINKIT DATA ANALYSIS DASHBOARD 
+<br>
 A comprehensive data analysis project designed to evaluate Blinkit's grocery sales performance through key performance indicators (KPIs) and detailed breakdowns to support strategic business decisions.
 
 Key KPIs Tracked:
